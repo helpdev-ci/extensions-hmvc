@@ -2,6 +2,7 @@
 
 ## Modular Extensions installation
 Start with a clean CI install
+
 Set $config[‘base_url’] correctly for your installation
 Access the URL /index.php/welcome => shows Welcome to CodeIgniter
 Drop Modular Extensions third_party files into the CI 2.0 application/third_party directory
